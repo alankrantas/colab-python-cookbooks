@@ -17,7 +17,7 @@
 
 ## AutoML on Kaggle community competition
 
-I ran these scripts in local Jupyter Notebook since they usually require much longer training time. For AutoKeras I use a GTX 1660 Ti card as GPU.
+I ran these scripts in local Jupyter Notebook since they usually require much longer training time. For AutoKeras I use a GTX 1660 Ti card as GPU. A screen shot of my leaderboard ranks can be found [here](https://github.com/alankrantas/colab-python-cookbooks/blob/main/kaggle/score-2022-02-12.png).
 
 * [Titanic](https://github.com/alankrantas/colab-python-cookbooks/blob/main/kaggle/titanic_flaml.ipynb) (FLAML)
 * [House Prices](https://github.com/alankrantas/colab-python-cookbooks/blob/main/kaggle/housing_flaml.ipynb) (FLAML)
