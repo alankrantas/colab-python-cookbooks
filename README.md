@@ -11,6 +11,7 @@
 ## Misc
 
 * [Visualize](https://github.com/alankrantas/colab-python-cookbooks/blob/main/colab_covid_daily_new_cases.ipynb) Top 10 Covid-19 Daily New Cases for the Past 60 Days
+* [Visualize](https://github.com/alankrantas/colab-python-cookbooks/blob/main/colab_scikitlearn_charts.ipynb) some scikit-learn ML model classifications
 * [Keras](https://github.com/alankrantas/colab-python-cookbooks/blob/main/colab_keras_mnist.ipynb) MNIST Model
 * 在 Colab 使用[中文字型繪圖](https://github.com/alankrantas/colab-python-cookbooks/blob/main/colab_matplotlib_chinese.ipynb)的最簡易辦法 (draw Chinese texts in Colaboratory)
 
