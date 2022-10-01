@@ -10,6 +10,7 @@
 
 ## Misc
 
+* Draw AI images with [Stable Diffusion](https://github.com/alankrantas/colab-python-cookbooks/blob/main/keras_cv_stable_diffusion.ipynb) model
 * [Visualize](https://github.com/alankrantas/colab-python-cookbooks/blob/main/colab_covid_daily_new_cases.ipynb) top 10 Covid-19 daily new cases
 * [Visualize](https://github.com/alankrantas/colab-python-cookbooks/blob/main/colab_scikitlearn_charts.ipynb) some scikit-learn ML model classifications
 * [Keras](https://github.com/alankrantas/colab-python-cookbooks/blob/main/colab_keras_mnist.ipynb) MNIST Model
