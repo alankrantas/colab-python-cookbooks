@@ -1,4 +1,3 @@
-ipykernel
 numpy
 scipy
 scikit-learn
@@ -8,4 +7,6 @@ seaborn
 tensorflow
 autokeras
 flaml
+lightgbm
 tpot
+ipykernel
