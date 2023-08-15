@@ -29,4 +29,4 @@ I ran these scripts in local Jupyter Notebook since they usually require much lo
 
 # Open in DevContainer
 
-This repo supports to be opened in DevContainer or Codespace and supports notebooks.
+An initial support for opening this repo in DevContainer or Codespace is added, although I have not tested all examples yet.
