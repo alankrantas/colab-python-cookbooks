@@ -27,6 +27,6 @@ I ran these scripts in local Jupyter Notebook since they usually require much lo
 * [Dogs vs. Cats Redux](https://github.com/alankrantas/colab-python-cookbooks/blob/main/kaggle/catdog_autokeras.ipynb) (AutoKeras)
 * [Disaster Tweets](https://github.com/alankrantas/colab-python-cookbooks/blob/main/kaggle/disasters_autokeras.ipynb) (AutoKeras)
 
-# Open in DevContainer
+# Open in DevContainer/Codespace
 
-An initial support for opening this repo in DevContainer or Codespace is added, although I have not tested all examples yet.
+This repo can be opened in a Python 3.10 DevContainer which supports executing notebooks. You may need to select the Python kernel first.
