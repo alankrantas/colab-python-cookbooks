@@ -5,8 +5,8 @@ matplotlib
 pandas
 seaborn
 tensorflow
+pypot
 autokeras
-flaml
-lightgbm
-opencv-python
+pypot
+flaml[automl, forecast]
 ipykernel
