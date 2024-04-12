@@ -5,9 +5,11 @@ matplotlib
 pandas
 seaborn
 tensorflow
-pypot
+pydot
+pydot_ng
 autokeras
 flaml
 flaml[automl]
 flaml[forecast]
 ipykernel
+IProgress
