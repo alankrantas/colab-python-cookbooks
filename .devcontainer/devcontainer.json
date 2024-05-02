@@ -10,7 +10,7 @@
 	// "forwardPorts": [],
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"updateContentCommand": "bash .devcontainer/install-dev-tools.sh",
-	"postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt && pip3 cache purge",
+	// "postCreateCommand": "",
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
